@@ -5,3 +5,4 @@ dependencies:
   - r-tidymodels
   - r-tidyverse
   - r-irkernel
+  - r-palmerpenguins
