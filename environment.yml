@@ -1,0 +1,7 @@
+name: data730
+channels:
+  - conda-forge
+dependencies:
+  - r-tidymodels
+  - r-tidyverse
+  - r-irkernel
